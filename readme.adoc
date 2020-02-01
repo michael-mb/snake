@@ -6,3 +6,5 @@ This Snake game was developed in Java with the IDE Eclipce.
 
 * In the IDE: find `Main.java`, right-click project, select "Run As > Java Application"
 * From the command line: run `java -jar snake.jar`
+
+image:snake_demo.png[DEMO]
