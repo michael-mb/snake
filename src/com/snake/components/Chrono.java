@@ -1,6 +1,6 @@
 package com.snake.components;
 
-import com.snake.jeu.Scene;
+import com.snake.game.Scene;
 
 public class Chrono implements Runnable {
 

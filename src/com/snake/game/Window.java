@@ -1,4 +1,4 @@
-package com.snake.jeu;
+package com.snake.game;
 import java.awt.BorderLayout;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

@@ -1,4 +1,4 @@
-package com.snake.jeu;
+package com.snake.game;
 
 public class Main {
 

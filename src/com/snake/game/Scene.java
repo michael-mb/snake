@@ -1,4 +1,4 @@
-package com.snake.jeu;
+package com.snake.game;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
